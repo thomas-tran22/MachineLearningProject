@@ -1,0 +1,137 @@
+Iteration One
+
+
+Metrics for Random Forest
+Accuracy: 0.9473063188945815
+
+Predicted 1	Predicted 0
+Actual 1	194	18
+Actual 0	12	345
+
+Precision:  0.941747572815534
+Recall: 0.9150943396226415
+
+Metrics for ADA Boosting
+Accuracy: 0.9595714951094549
+
+Predicted 1	Predicted 0
+Actual 1	197	15
+Actual 0	8	349
+
+Precision:  0.9609756097560975
+Recall: 0.9292452830188679
+
+Metrics for SVM
+Accuracy: 0.9701288619779538
+
+Predicted 1	Predicted 0
+Actual 1	200	12
+Actual 0	5	352
+
+Precision:  0.975609756097561
+Recall: 0.9433962264150944
+
+Metrics for K Nearest Neighbor
+Accuracy: 0.947259742276044
+
+Predicted 1	Predicted 0
+Actual 1	188	24
+Actual 0	6	351
+
+Precision:  0.9690721649484536
+Recall: 0.8867924528301887
+
+Metrics for Neural Nets
+Accuracy: 0.9683123738549915
+Predicted 1	Predicted 0
+Actual 1	206	6
+Actual 0	12	345
+Precision:  0.944954128440367
+Recall: 0.9716981132075472
+
+
+
+Iteration Two
+
+Metrics for Random Forest
+Accuracy: 0.9578015836050303
+Predicted 1	Predicted 0
+Actual 1	198	14
+Actual 0	10	347
+Precision:  0.9519230769230769
+Recall: 0.9339622641509434
+
+Metrics for ADA Boosting
+Accuracy: 0.9613258810743673
+Predicted 1	Predicted 0
+Actual 1	200	12
+Actual 0	10	347
+Precision:  0.9523809523809523
+Recall: 0.9433962264150944
+
+Metrics for SVM
+Accuracy: 0.9718366713243286
+Predicted 1	Predicted 0
+Actual 1	202	10
+Actual 0	6	351
+Precision:  0.9711538461538461
+Recall: 0.9528301886792453
+
+Metrics for K Nearest Neighbor
+Accuracy: 0.9665735134295919
+Predicted 1	Predicted 0
+Actual 1	196	16
+Actual 0	3	354
+Precision:  0.9849246231155779
+Recall: 0.9245283018867925
+
+Metrics for Neural Nets
+Accuracy: 0.9718521968638412
+Predicted 1	Predicted 0
+Actual 1	205	7
+Actual 0	9	348
+Precision:  0.9579439252336449
+Recall: 0.9669811320754716
+
+
+Iteration 3
+
+Metrics for Random Forest
+Accuracy: 0.9628071997230876
+Predicted 1	Predicted 0
+Actual 1	180	12
+Actual 0	8	338
+Precision:  0.9574468085106383
+Recall: 0.9375
+
+Metrics for ADA Boosting
+Accuracy: 0.9720837660089996
+Predicted 1	Predicted 0
+Actual 1	180	12
+Actual 0	3	343
+Precision:  0.9836065573770492
+Recall: 0.9375
+
+Metrics for SVM
+Accuracy: 0.977673935617861
+Predicted 1	Predicted 0
+Actual 1	184	8
+Actual 0	4	342
+Precision:  0.9787234042553191
+Recall: 0.9583333333333334
+
+Metrics for K Nearest Neighbor
+Accuracy: 0.9608861197646243
+Predicted 1	Predicted 0
+Actual 1	176	16
+Actual 0	5	341
+Precision:  0.9723756906077348
+Recall: 0.9166666666666666
+
+Metrics for Neural Nets
+Accuracy: 0.9720491519556941
+Predicted 1	Predicted 0
+Actual 1	184	8
+Actual 0	7	339
+Precision:  0.9633507853403142
+Recall: 0.9583333333333334
