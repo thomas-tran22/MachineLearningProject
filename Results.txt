@@ -135,3 +135,45 @@ Actual 1	184	8
 Actual 0	7	339
 Precision:  0.9633507853403142
 Recall: 0.9583333333333334
+
+Cur
+Metrics for Random Forest
+Accuracy: 0.9648657040832168
+Predicted 1	Predicted 0
+Actual 1	200	12
+Actual 0	8	349
+Precision:  0.9615384615384616
+Recall: 0.9433962264150944
+
+Metrics for ADA Boosting
+Accuracy: 0.9718987734823784
+Predicted 1	Predicted 0
+Actual 1	201	11
+Actual 0	5	352
+Precision:  0.9757281553398058
+Recall: 0.9481132075471698
+
+Metrics for SVM
+Accuracy: 0.9736531594472908
+Predicted 1	Predicted 0
+Actual 1	203	9
+Actual 0	6	351
+
+Precision:  0.9712918660287081
+Recall: 0.9575471698113207
+
+Metrics for K Nearest Neighbor
+Accuracy: 0.9666356155876417
+Predicted 1	Predicted 0
+Actual 1	196	16
+Actual 0	3	354
+Precision:  0.9849246231155779
+Recall: 0.9245283018867925
+
+Metrics for Neural Nets
+Accuracy: 0.9718987734823784
+Predicted 1	Predicted 0
+Actual 1	204	8
+Actual 0	8	349
+Precision:  0.9622641509433962
+Recall: 0.9622641509433962
