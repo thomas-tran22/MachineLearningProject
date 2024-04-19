@@ -135,3 +135,178 @@ Actual 1	184	8
 Actual 0	7	339
 Precision:  0.9633507853403142
 Recall: 0.9583333333333334
+
+Iteration 4 
+
+Metrics for Random Forest
+Accuracy: 0.9648657040832168
+Predicted 1	Predicted 0
+Actual 1	200	12
+Actual 0	8	349
+Precision:  0.9615384615384616
+Recall: 0.9433962264150944
+
+Metrics for ADA Boosting
+Accuracy: 0.9718987734823784
+Predicted 1	Predicted 0
+Actual 1	201	11
+Actual 0	5	352
+Precision:  0.9757281553398058
+Recall: 0.9481132075471698
+
+Metrics for SVM
+Accuracy: 0.9736531594472908
+Predicted 1	Predicted 0
+Actual 1	203	9
+Actual 0	6	351
+
+Precision:  0.9712918660287081
+Recall: 0.9575471698113207
+
+Metrics for K Nearest Neighbor
+Accuracy: 0.9666356155876417
+Predicted 1	Predicted 0
+Actual 1	196	16
+Actual 0	3	354
+Precision:  0.9849246231155779
+Recall: 0.9245283018867925
+
+Metrics for Neural Nets
+Accuracy: 0.9718987734823784
+Predicted 1	Predicted 0
+Actual 1	204	8
+Actual 0	8	349
+Precision:  0.9622641509433962
+Recall: 0.9622641509433962
+
+Iteration 5
+
+At .07
+
+Metrics for Random Forest
+Accuracy: 0.963302752293578
+Predicted 1	Predicted 0
+Actual 1	344	9
+Actual 0	11	181
+Precision:  0.9690140845070423
+Recall: 0.9745042492917847
+
+Metrics for ADA Boosting
+Accuracy: 0.9688073394495413
+Predicted 1	Predicted 0
+Actual 1	347	6
+Actual 0	11	181
+Precision:  0.9692737430167597
+Recall: 0.9830028328611898
+
+Metrics for SVM
+Accuracy: 0.98348623853211
+Predicted 1	Predicted 0
+Actual 1	350	3
+Actual 0	6	186
+Precision:  0.9831460674157303
+Recall: 0.9915014164305949
+
+Metrics for K Nearest Neighbor
+Accuracy: 0.9614678899082569
+Predicted 1	Predicted 0
+Actual 1	346	7
+Actual 0	14	178
+Precision:  0.9611111111111111
+Recall: 0.9801699716713881
+
+Metrics for Neural Nets
+Accuracy: 0.9761467889908257
+Predicted 1	Predicted 0
+Actual 1	347	6
+Actual 0	7	185
+Precision:  0.980225988700565
+Recall: 0.9830028328611898
+
+
+
+At .1
+
+Metrics for Random Forest
+Accuracy: 0.9526105087572978
+Predicted 1	Predicted 0
+Actual 1	342	12
+Actual 0	14	180
+Precision:  0.9606741573033708
+Recall: 0.9661016949152542
+
+Metrics for ADA Boosting
+Accuracy: 0.9598665554628857
+Predicted 1	Predicted 0
+Actual 1	343	11
+Actual 0	11	183
+Precision:  0.9689265536723164
+Recall: 0.9689265536723164
+
+Metrics for SVM
+Accuracy: 0.9689908256880735
+Predicted 1	Predicted 0
+Actual 1	347	7
+Actual 0	10	184
+Precision:  0.9719887955182073
+Recall: 0.980225988700565
+
+Metrics for K Nearest Neighbor
+Accuracy: 0.9544120100083402
+Predicted 1	Predicted 0
+Actual 1	343	11
+Actual 0	14	180
+Precision:  0.9607843137254902
+Recall: 0.9689265536723164
+
+Metrics for Neural Nets
+Accuracy: 0.9744787322768975
+Predicted 1	Predicted 0
+Actual 1	347	7
+Actual 0	7	187
+Precision:  0.980225988700565
+Recall: 0.980225988700565
+
+
+
+without additional engineering 
+
+Metrics for Random Forest
+Accuracy: 0.959633597267505
+Predicted 1	Predicted 0
+Actual 1	349	8
+Actual 0	15	197
+Precision:  0.9587912087912088
+Recall: 0.9775910364145658
+
+Metrics for ADA Boosting
+Accuracy: 0.9683434249340165
+Predicted 1	Predicted 0
+Actual 1	353	4
+Actual 0	14	198
+Precision:  0.9618528610354223
+Recall: 0.988795518207283
+
+Metrics for SVM
+Accuracy: 0.971914299021891
+Predicted 1	Predicted 0
+Actual 1	351	6
+Actual 0	10	202
+Precision:  0.9722991689750693
+Recall: 0.9831932773109243
+
+Metrics for K Nearest Neighbor
+Accuracy: 0.9578326346840551
+Predicted 1	Predicted 0
+Actual 1	348	9
+Actual 0	15	197
+Precision:  0.9586776859504132
+Recall: 0.9747899159663865
+
+Metrics for Neural Nets
+Accuracy: 0.968390001552554
+Predicted 1	Predicted 0
+Actual 1	349	8
+Actual 0	10	202
+Precision:  0.9721448467966574
+Recall: 0.9775910364145658
